@@ -1,4 +1,4 @@
-# Google Analytic 4 Data API PHP  
+# API for Google Analytic 4 using PHP  
 
 ### Steps
 - Run ```composer install```
